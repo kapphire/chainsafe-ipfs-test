@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "E:\\ethereum\\chainsafe-test\\blockchain\\contracts\\IPFSStorage.sol": {
+      "lastModificationDate": 1643875416508,
+      "contentHash": "48466e4d5e58766d41702493198cb727",
+      "sourceName": "contracts/IPFSStorage.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.0"
+      ],
+      "artifacts": [
+        "IPFSStorage"
+      ]
+    }
+  }
+}
