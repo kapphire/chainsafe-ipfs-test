@@ -10,6 +10,8 @@ dist/
 .env
 package-lock.json
 
+cli-tool/build
+
 # Compiled Java class files
 *.class
 

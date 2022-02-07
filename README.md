@@ -24,7 +24,8 @@
 - Go to `cli-tool` directory.
 - Change env.example to .env in `cli-tool` directory, replace the env variables with yours.
 - Install all dependencies in package.json file.
-- Then Run `npm install -g ./`
+- Build `npx tsc`
+- Run `npm install -g ./`
 
 2. cli explain
 - there are 2 commands - `chainsafe add <filepath>`, `chainsafe show`

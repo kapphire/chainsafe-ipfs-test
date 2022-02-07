@@ -1,13 +1,13 @@
 #### Installation
-- Go to `cli-tool` directory.
-- Change env.example to .env in `cli-tool` directory, replace the env variables with yours.
-- Install all dependencies in package.json file.
-- Then Run `npm install -g ./`
+- Go to root directory of this package.
+- install all dependencies in package.json file.
+- Build `npx tsc`
+- Run `npm install -g ./`
 
 
 #### Store file in ipfs
 - `chainsafe add <filepath>`
 
 
-#### Show stored CID
+#### Show CID
 - `chainsafe show`
